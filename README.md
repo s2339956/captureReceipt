@@ -2,7 +2,10 @@
 爬蟲練習：抓取財政部網站最新一期與上一期的統一發票號碼
 
 ## usage  
-`python app.py`  
+`python app.py`  
+
+直接使用 
+`python Receipt.py` 
   
 ## output   
 ```bash  
